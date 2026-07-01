@@ -4,22 +4,21 @@
 
 # 👋 Hi, I'm Akash Khurana
 
-## 🚀 BuildWithAkash
+# 🚀 BuildWithAkash
 
-Welcome to **BuildWithAkash** — my personal engineering lab where I build, experiment, document, and share practical solutions for modern infrastructure.
+Welcome to **BuildWithAkash** — my personal engineering space where I build, experiment, document, and share practical solutions for modern infrastructure.
 
-I'm passionate about Infrastructure Automation, DevSecOps, Compliance, Platform Engineering, and Artificial Intelligence. This GitHub is where I document my learning journey, publish projects, contribute to open source, and continuously improve as an engineer.
-
-> **Build. Automate. Share.**
+I'm passionate about creating reliable, secure, and scalable engineering solutions through automation, DevSecOps, Compliance as Code, AI, and Open Source.
 
 ---
 
-# 🧭 Engineering Focus
+# 🏗 Engineering Pillars
 
-- 🏗️ Infrastructure Automation
+Everything I build aligns with these five pillars:
+
+- 🏗 Infrastructure Automation
 - 🔐 DevSecOps
-- 🛡️ Compliance as Code
-- ☁️ Platform Engineering
+- 🛡 Compliance as Code
 - 🤖 AI for Operations (AIOps)
 - 🌍 Open Source
 
@@ -35,27 +34,40 @@ I'm passionate about Infrastructure Automation, DevSecOps, Compliance, Platform 
 - Bash
 - Python
 
+### Platform & DevOps
+
+- Git
+- GitHub
+- Jenkins
+- Docker
+- Kubernetes
+- Terraform
+
 ### Operating Systems
 
 - Linux
 - Windows
 
-### DevOps & Platform Engineering
-
-- Git
-- GitHub
-- Jenkins
-
 ---
 
 # 🌱 Currently Exploring
 
+- Platform Engineering
 - Kubernetes
 - Terraform
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
 - Cloud Native Technologies
-- Open Source Contribution
+- Open Source Contributions
+
+---
+
+# 📦 Featured Repositories
+
+- 🚀 Automation Lab *(Engineering knowledge base)*
+- 🔐 DevSecOps Lab *(Coming Soon)*
+- 🛡 Compliance Lab *(Coming Soon)*
+- 🤖 AIOps Lab *(Coming Soon)*
 
 ---
 
@@ -65,42 +77,22 @@ To build practical engineering solutions that simplify infrastructure management
 
 ---
 
-# 📂 What You'll Find Here
+# 📚 What You'll Find Here
 
-This GitHub serves as my engineering workspace where I share:
+- Infrastructure Automation
+- DevSecOps Labs
+- Compliance as Code
+- AI for Operations
+- Engineering Notes
+- Practical Projects
+- Open Source Contributions
 
-- 🚀 Infrastructure Automation Projects
-- 🔐 DevSecOps Labs
-- 🛡️ Compliance as Code
-- ☁️ Platform Engineering Experiments
-- 🤖 AI & AIOps Projects
-- 📚 Learning Notes
-- 🌍 Open Source Contributions
-
-Every repository represents something I've built, explored, or learned.
+Every repository represents something I've built, explored, documented, or improved.
 
 ---
 
-# 🚀 Current Goals
+## 🚀 BuildWithAkash
 
-- Build production-quality automation projects
-- Contribute consistently to open-source communities
-- Learn Kubernetes and Platform Engineering
-- Explore AI for Infrastructure & Operations
-- Share knowledge through **BuildWithAkash**
-
----
-
-# 🤝 Let's Connect
-
-If you're interested in Infrastructure Automation, DevSecOps, Platform Engineering, AI, or Open Source, feel free to explore my repositories and connect with me.
-
----
-
-<p align="center">
-
-### **Build. Automate. Share.**
+> **Build. Automate. Secure. Share.**
 
 *Engineering modern infrastructure, one project at a time.*
-
-</p>
