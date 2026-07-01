@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash Khurana
 
-<!--
-**AkashKhuranaDev/AkashKhuranaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 BuildingWithAkash
 
-Here are some ideas to get you started:
+Welcome! This GitHub is where I document my engineering journey as I build, learn and share practical solutions in Infrastructure Automation, DevSecOps, Compliance, Platform Engineering and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe the best way to learn is by building in public and contributing back to the engineering community.
+
+---
+
+## 💡 Areas of Interest
+
+- Infrastructure Automation
+- DevSecOps
+- Platform Engineering
+- Compliance as Code
+- AI for Operations (AIOps)
+- Open Source
+
+---
+
+## 🛠️ Technologies
+
+- Chef Infra
+- Chef InSpec
+- Linux
+- Windows
+- PowerShell
+- Python
+- Git & GitHub
+- Jenkins
+
+---
+
+## 🌱 Currently Exploring
+
+- Kubernetes
+- Terraform
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Open Source Contribution
+
+---
+
+## 🎯 Mission
+
+Build practical engineering solutions, contribute to the open-source community, and help engineers automate infrastructure securely and efficiently.
+
+---
+
+## 📂 What You'll Find Here
+
+This GitHub serves as my engineering lab, where I share:
+
+- 🚀 Infrastructure Automation
+- 🔐 DevSecOps
+- 🛡️ Compliance as Code
+- 🤖 AI-powered Operations
+- ⚙️ Platform Engineering
+- 📚 Learning Projects
+- 🌍 Open Source Contributions
+
+---
+
+> **Build. Learn. Share. Repeat.**
+
+⭐ **Building with Akash — one project at a time.**
